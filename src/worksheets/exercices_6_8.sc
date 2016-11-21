@@ -79,5 +79,4 @@ object Exercices {
     }
   }
 
-  None.toString()
 }
